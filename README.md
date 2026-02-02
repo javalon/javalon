@@ -14,7 +14,7 @@ Most of the projects I've worked on involve **Web technologies** and **native mo
 📦 A few years ago, discovering **AWS** and container systems like **Docker** and **Kubernetes** drew me into the world of **system architecture**, **cloud infrastructure**, and **DevOps practices**.
 
 🧠 I'm currently:
-- 👨‍💻 Working at [Manfred](https://getmanfred.com) as a **Software Developer & SRE**
+- 👨‍💻 Working at [Sngular](https://www.sngular.com/) as a **Cloud and Devops Engineer**
 - 🎓 Teaching as a substitute lecturer at the **University of Valladolid**
 - 🚀 Constantly learning about **Cloud Computing**, **Cybersecurity**, and **DevOps**
 
